@@ -137,9 +137,8 @@ body {
     }
     .apresentacao__imagem{
         width: 100%;
-        max-width: 350px;    
-        height: 350px;        
-        object-fit: cover;    
-        object-position: top;
+        max-width: 350px;
+        height: 350px;
+        object-fit: contain;
     }
 }
